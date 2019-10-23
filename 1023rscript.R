@@ -2,4 +2,4 @@
 
 # first commit
 
-# full 
+# pull 
